@@ -93,5 +93,5 @@
 font-size:10px;
 font-variant: normal;
 }
-
+</style>
 						
